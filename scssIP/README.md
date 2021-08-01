@@ -1,3 +1,7 @@
+
+- Based on ARP protocol,
+- LAN scan only(Intranet)
+
 ```shell
 vim ~/.bashrc
 vim ~/.zshrc
@@ -41,3 +45,4 @@ add
 |[*] Elapsed real time: 6.63 sec
 └─[+] Scan complete !
 ```
+
